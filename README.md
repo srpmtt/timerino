@@ -9,3 +9,5 @@ Countdown for the terminal.
 ```bash
 timerino <hours> <minutes> <seconds> <message>
 ```
+
+![preview](./img/preview.png)
